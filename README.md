@@ -1,6 +1,5 @@
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://github.com/zbetcheckin/Security_list)
-TEST
 # Awesome MII <img src="https://www.medizininformatik-initiative.de/themes/custom/mii/assets/img/Logo_MII_270px_Hoehe_en.png" width="233" height="135" />
 
 
@@ -44,6 +43,7 @@ If you just started working in a medical data integration center of a German Uni
 ### Data Protection & consent
 | Type | Name | Description | Contact | Link/Material |
 | --- | --- | --- | --- | ---- |
+|Junior working group | MDPPML |Data protection of medically relevant data and privacy-conscious training of machine learning models on medical data | [Dr. Mete Akgün](mailto:mete.akguen@uni-tuebingen.de) | https://mdppml.github.io| 
 | Patient consent | MII sample patient consent | All University Medical Center locations have agreed on a standardized, consent-based approach for patients to allow the reuse of their clinical data, with input from various stakeholders and approval from data protection authorities. | / | [Website with consent forms in different languages](https://www.medizininformatik-initiative.de/de/mustertext-zur-patienteneinwilligung) 
 | Template | Template risk documenting | Template for documenting risk and protection needs analyses of data protection impact assessments according to Art. 35 GDPR in medical research. | [Dr. Knut Kaulke](mailto:knut.kaulke@tmf-ev.de) | [Direct Download](https://www.toolpool-gesundheitsforschung.de/sites/default/files/2023-10/TMF_DSFA-Template_rc06_0.xlsx), [Website](https://www.toolpool-gesundheitsforschung.de/produkte/template-zur-dokumentation-von-datenschutz-folgenabschaetzungen-nach-art-35-dsgvo) | 
 | Working group (MII) | Consent | Focuses on the design of the consent declaration signed by patients to allow healthcare data to be used in future medical research. | [Prof. Dr. Sven Zenker](https://www.ukbonn.de/ueber-uns/stabsstellen/mwtek/), [Prof. Dr. Dr. Daniel Strech](https://www.bihealth.org/de/translation/innovationstreiber/quest-center/teams/team/ag-strech) | https://www.medizininformatik-initiative.de/en/collaboration/consent-working-group
